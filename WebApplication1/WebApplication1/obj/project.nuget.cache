@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8SHkMsfrSwIo7OSj61wwuW7QRwxIllWZof12jfEZm7K8elH2hUiVDw7bv/ZQAA/MmjSSug+DVpQc9b9QKOUTA==",
+  "success": true,
+  "projectFilePath": "G:\\紫文件夹\\新建文件夹\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.7\\microsoft.netcore.app.host.win-x64.6.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
