@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\紫文件夹\\新建文件夹\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "G:\\紫文件夹\\新建文件夹 - 副本\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "G:\\紫文件夹\\新建文件夹\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "G:\\紫文件夹\\新建文件夹 - 副本\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "G:\\紫文件夹\\新建文件夹\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "G:\\紫文件夹\\新建文件夹 - 副本\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
